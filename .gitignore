@@ -1,3 +1,7 @@
+# data
+figure_source_csv/
+.DS_store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
