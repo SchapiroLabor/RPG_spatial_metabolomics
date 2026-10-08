@@ -2,6 +2,7 @@
 figure_source_csv/
 .DS_store
 TODO.md
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

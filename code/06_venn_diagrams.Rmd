@@ -5,7 +5,7 @@ library(eulerr)
 
 ```{r}
 #all organs
-metabolites_by_organ <- read_csv("~/Documents/uni/PhD/Villablanca_collab/gustavo/RPG/metabolomics_RPG/metabolites_by_organ.csv")
+metabolites_by_organ <- read_csv("../data/metabolites_by_organ.csv")
 ```
 
 ```{r}
