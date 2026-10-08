@@ -1,1 +1,1 @@
-# RPG_spatial_metabolomics
+# Comparative spatial metabolomics of the retropharyngeal gland
